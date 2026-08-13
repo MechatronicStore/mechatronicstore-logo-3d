@@ -13,7 +13,7 @@ jobs:
       matrix:
         python-version: ["3.12", "3.13"]
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # svglib pulls in pycairo, which builds against the system cairo, and
       # rsvg-convert is the renderer svg_to_png.py prefers. Neither ships with
@@ -25,7 +25,7 @@ jobs:
             libcairo2-dev pkg-config librsvg2-bin
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v6
         with:
           enable-cache: true
 
