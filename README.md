@@ -164,8 +164,11 @@ tests, so there are no binary blobs in the repository.
 ## License
 
 Code: [MIT](LICENSE). The MechatronicStore logo files in `assets/` are a
-trademark with their own terms: see [TRADEMARK.md](TRADEMARK.md). Short version:
-print all the branded parts you like, do not pass yourself off as the company.
+trademark with their own terms: see [TRADEMARK.md](TRADEMARK.md).
+
+Short version: printing, giving away, posting and teaching with branded parts is
+free and needs no permission. Selling them needs one email to
+ventas@mechatronicstore.cl, and the usual answer is yes.
 
 Using your own logo instead works exactly the same: `--logo my-logo.svg`.
 
@@ -207,9 +210,10 @@ cada corrida revisa con rayos si hay material debajo: si la pieza es hueca o tip
 marco, te avisa que quedaría al aire y te dice cómo moverlo. Tu archivo original
 nunca se modifica.
 
-Código MIT. El logo es marca registrada y tiene sus propios términos en
-[TRADEMARK.md](TRADEMARK.md): imprime todas las piezas de marca que quieras, no
-te hagas pasar por la empresa.
+Código MIT. El logo es marca registrada con sus propios términos en
+[TRADEMARK.md](TRADEMARK.md): imprimir, regalar, publicar fotos y hacer clases
+con piezas de marca es libre y no requiere permiso. Venderlas necesita un correo
+a ventas@mechatronicstore.cl, y la respuesta normalmente es sí.
 
 <div align="center">
 <br>
