@@ -1,0 +1,21 @@
+[project]
+name = "logo3d"
+version = "1.0.0"
+description = "Put the MechatronicStore logo on any STL or 3MF part and export a multicolor GLB for Bambu Studio"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "LICENSE" }
+dependencies = [
+    "numpy>=2.4.5",
+    "pillow>=12.2.0",
+    "reportlab>=4.5.1",
+    "svglib>=1.6.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

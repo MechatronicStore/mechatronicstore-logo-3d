@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.pytest_cache/
+.python-version
+
+# Generated outputs
+output/
+*.glb
+*_previews/
+*.png
+!assets/*.png
+!docs/*.png
+
+# Local models the user drops in the repo — never commit someone else's design
+*.3mf
+*.stl
+!examples/*.stl
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
