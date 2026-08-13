@@ -58,7 +58,7 @@ Cierra la Terminal y ábrela de nuevo para que tome el comando.
 ### 4. La herramienta
 
 ```bash
-git clone https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d.git
+git clone https://github.com/MechatronicStore/mechatronicstore-logo-3d.git
 cd mechatronicstore-logo-3d
 uv sync
 ```
@@ -111,7 +111,7 @@ Cierra PowerShell y ábrelo de nuevo.
 ### 4. La herramienta
 
 ```powershell
-git clone https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d.git
+git clone https://github.com/MechatronicStore/mechatronicstore-logo-3d.git
 cd mechatronicstore-logo-3d
 uv sync
 ```
@@ -154,7 +154,7 @@ flatpak install flathub org.blender.Blender    # cualquiera, versión más nueva
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # la herramienta
-git clone https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d.git
+git clone https://github.com/MechatronicStore/mechatronicstore-logo-3d.git
 cd mechatronicstore-logo-3d
 uv sync
 python3 logo3d.py --model examples/coaster_simple.stl --logo m --preview
@@ -241,7 +241,7 @@ brew install --cask blender
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # every platform, once Blender and uv are in place
-git clone https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d.git
+git clone https://github.com/MechatronicStore/mechatronicstore-logo-3d.git
 cd mechatronicstore-logo-3d
 uv sync
 python3 logo3d.py --model examples/coaster_simple.stl --logo m --preview

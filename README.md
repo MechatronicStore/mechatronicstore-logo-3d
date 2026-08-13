@@ -4,7 +4,7 @@
 
 <br>
 
-[![tests](https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d/actions/workflows/tests.yml/badge.svg)](https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d/actions/workflows/tests.yml)
+[![tests](https://github.com/MechatronicStore/mechatronicstore-logo-3d/actions/workflows/tests.yml/badge.svg)](https://github.com/MechatronicStore/mechatronicstore-logo-3d/actions/workflows/tests.yml)
 [![license MIT](https://img.shields.io/badge/code-MIT-7B1FD9)](LICENSE)
 [![python 3.12+](https://img.shields.io/badge/python-3.12%2B-7B1FD9)](https://www.python.org/downloads/)
 [![blender 4.x | 5.x](https://img.shields.io/badge/blender-4.x%20%7C%205.x-FFE546)](https://www.blender.org/download/)
@@ -41,7 +41,7 @@ New here? The [step by step install guide](INSTALL.md) covers macOS, Windows and
 Linux, and takes about 15 minutes. The short version:
 
 ```bash
-git clone https://github.com/PabloSilvaBravo/mechatronicstore-logo-3d.git
+git clone https://github.com/MechatronicStore/mechatronicstore-logo-3d.git
 cd mechatronicstore-logo-3d
 uv sync
 ```
